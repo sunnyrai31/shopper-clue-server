@@ -1,0 +1,25 @@
+{
+  "name": "shoppers-clue-server",
+  "version": "1.0.0",
+  "description": "This is online shopping store",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyrai31/shoppers-clue-server.git"
+  },
+  "author": "Sunny rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyrai31/shoppers-clue-server/issues"
+  },
+  "homepage": "https://github.com/sunnyrai31/shoppers-clue-server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.5",
+    "q": "^1.5.0"
+  }
+}
